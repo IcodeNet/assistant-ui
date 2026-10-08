@@ -1,5 +1,12 @@
 # @assistant-ui/vite
 
+## 0.0.21
+
+### Patch Changes
+
+- Updated dependencies [[`8bcb4ee`](https://github.com/assistant-ui/assistant-ui/commit/8bcb4ee20ef745a6a3b0fa6a9075bf374b8583ef)]:
+  - @assistant-ui/x-generative-compiler@0.0.21
+
 ## 0.0.20
 
 ### Patch Changes
